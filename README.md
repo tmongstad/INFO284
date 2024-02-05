@@ -1,2 +1,2 @@
 Gruppeoppgave i maskinlæring INFO284.
-Gruppemedlemmer: Torstein, Sara, Ragnhild, Frida
+Gruppemedlemmer: Torstein, Sarah, Ragnhild, Frida
